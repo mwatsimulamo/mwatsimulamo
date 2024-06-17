@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Le titre de la page -->
+    <title>Cours HTML</title>
+    <!-- Icone de l'onglet -->
+    <link rel="shotcut icon" href="Logo html.png">
+</head>
+<body>
+    <header>
+        <p>Texte basique. <em>voici un texte en itallique. <strong>Et un texte en graas</strong>. <span>L'élemenent en span ne revien pas à la ligne</span>. </em></p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum laborum alias exercitationem!</p>
+    </header>
+        <section>
+        <div>
+            <h2><span>&#9758;</span>Photos - Titre H2</h2>
+            <img src="photo-paysage.png" height="200" alt="image-paysange">
+        <div>
+         <div>
+            <h3>Listes - Titre H3</h3>
+            <ul>
+                <li>UL= Unordered List</li>
+                <li>UL= unordered list</li>
+                <li>UL= unordered list</li>
+            </ul>
+            <ol>
+                <li>Ol = Ordered List</li>
+                <li>Ol = Ordered List</li>
+                <li>Ol = Ordered List</li>
+            </ol>
+        <div>
+        <div>
+            <h4>Tableaux - Titre H4</h4>
+            <table border="1" width="50%">
+                <!-- Légende -->
+                <caption>Population d'europe</caption>
+                <!-- En-tete -->
+                <thead>
+                    <tr>
+                        <th>Pays</th>
+                        <th>Population</th>
+                    </tr>
+                </thead>
+                <!-- Corps du tableau -->
+                <tbody>
+                    <tr>
+                        <td>France</td>
+                        <td>66M</td>
+                    </tr>
+                    <tr>
+                        <td>Allemagne</td>
+                        <td>82M</td>
+                    </tr>
+                    <tr>
+                        <td>Espagne</td>
+                        <td>47M</td>
+                    </tr>
+                    </tr>
+                </tbody>
+            </table>
+        <div>
+        <div>
+            <h5><span>&#9758;</span>Liens - Titre H5</h5>
+            <a href="https://www.skool.com/wada" target="_blank">www.skool.com</a>
+            <br>
+            <a href="https://htmlcheatsheet.com/" target="_blank">HTML Cheat Sheet</a>
+        <div>
+        <div>
+            <h6>Vidéo - Titre H6</h6>
+            <video src="Video.mp4" height="150" loop muted</video>
+        <div>
+    </section>
+    <br>
+    <!-- formulaire -->
+    <section>
+      <h2>Formulaire</h2>
+      <form action="/action.php" method=post>
+        <label for="name"> Nom </label>
+        <input id="name" type="text" placeholder=" Entrez votre nom"><br>
+        <label for="age">Age</label>
+        <input id=age" type="number" min="0" max="99" step="1" value="18"><br>
+
+        <!-- Input select -->
+        <label for="gender">Genre</label>
+        <select id="gender">
+          <option value="masculin">Masculin</option>
+          <option selected ="feminin">Feminin</option>
+        </select><br>
+
+        <!-- Input radion -->
+        <div>
+
+          <input type="radio" name="type" checked id="dog">
+          <label for="dog">Chien</label>
+
+          <input type="radio" name="type" id="cat">
+          <label for="cat">chat</label>
+        </div>
+
+        <textarea cols="30" rows="10" placeholder="Ecrire votre lettre de motivation ici"></textarea><br>
+
+        <!-- Input Checkbox -->
+        <label></label><input type="checkbox" />Acceptet les CGV</label><br>
+        <input type="submit" value="Valider">
+      </form>
+    </section>
+    <br>
+    <!-- Mail & envoie de fichier -->
+    <footer>
+        <a href="mailto:mwatsimulamoolivier@gmail.com">Ecrivez moi !</a>
+        <br>
+        <a href="notice.txt"download="nom-du-finchier">Télécharger la notice</a>
+    </footer>
+</body>
+</html>
