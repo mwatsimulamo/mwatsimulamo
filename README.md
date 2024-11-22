@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mwatsimulamo
-- 👀 I’m interested in Cardano Blockchain
+- 👀 I’m interested in Cardano Blockchain et le developpement Front-end
 - 🌱 I’m currently learning Web Developement with HTML, CSS, javascript, also I am learing about Blockfrost
 - 💞️ I’m looking to collaborate on Fullstake developement Project et Blockchain
 <!---
