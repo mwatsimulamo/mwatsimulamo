@@ -1,12 +1,11 @@
-<h2 align="center">👋 Hey, I'm @mwatsimulamo</h2>
+<h2 >👋 Hey, I'm Olivier Mwatsimulamo</h2>
 
-<p align="center">
+<p>
   🌍 Member of the <strong>Cardano Ecosystem</strong> since <strong>2021</strong> <br>
   💻 Passionate Full-Stack Developer | Web3 Enthusiast
 </p>
 
 ---
-
 ### 🧰 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
