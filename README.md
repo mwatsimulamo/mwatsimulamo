@@ -1,61 +1,28 @@
-<h2>Hey, I'm Olivier Mwatsimulamo</h2>
+<h2>Hey, I'm Olivier Mwatsimulamo 👋</h2>
 
 <p>
-  Active member of the <strong>Cardano Ecosystem</strong> since <strong>2021</strong> <br>
-  Full-Stack Developer | Web3 & Cardano Enthusiast <br>
-  Building decentralized solutions with a focus on impact and scalability
+  Full-Stack & Web3 Developer building in the <strong>Cardano ecosystem</strong>.<br>
+  Interested in open-source development, blockchain infrastructure, and tools that make Web3 more useful and accessible.
 </p>
 
----
+### Building with
 
-### Tech Stack
+`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `Supabase`  
+`Haskell` · `Plutus` · `Aiken` · `Lucid` · `Mesh`
 
-#### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+### What I'm focused on
 
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+- Building Web and Cardano applications
+- Exploring smart contracts and on-chain/off-chain architecture
+- Contributing to open-source projects
+- Building tools that help people navigate and participate in Web3
 
-#### Cardano / Web3
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell)
-![Plutus](https://img.shields.io/badge/-Plutus-0033AD?style=flat)
-![Aiken](https://img.shields.io/badge/-Aiken-111111?style=flat)
-![Lucid](https://img.shields.io/badge/-Lucid-2E86C1?style=flat)
-![Mesh SDK](https://img.shields.io/badge/-Mesh%20SDK-0A1A2F?style=flat)
-![Blockfrost](https://img.shields.io/badge/-Blockfrost-0B3C5D?style=flat)
+### Current work
 
----
-
-### What I Do
-- Build modern web applications with React, TypeScript, and Next.js
-- Manage scalable databases using Supabase and PostgreSQL
-- Develop Cardano smart contracts and dApps
-- Design escrow systems, NFT utilities, and on-chain/off-chain logic
-- Support Web3 adoption and education within local communities (DRC)
-
----
-
-### Currently Learning & Improving
-- Advanced Haskell, Plutus, and Aiken for secure smart contracts
-- dApp architecture (on-chain, off-chain, and database integration)
-- Testing, simulations, and best practices in Cardano development
-
----
-
-### Open to Collaborations
-- Full-stack Web and Web3 projects
-- Cardano smart contract and dApp initiatives
-- Community-driven and impact-focused blockchain solutions
+Currently building and contributing across the Cardano ecosystem, with a focus on developer tooling, education, and community-driven products.
 
 ---
 
 <p align="center">
-  <strong>Let’s connect and build meaningful Web3 solutions on Cardano.</strong>
+  <strong>Build. Contribute. Keep learning.</strong>
 </p>
