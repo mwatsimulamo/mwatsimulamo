@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Olivier Mwatsimulamo 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack & Web3 Developer · Cardano Builder · Open-Source Contributor</strong>
+  <strong>UI/UX & Junior Web3 Developer · Cardano Builder · Open-Source Contributor</strong>
 </p>
 
 <p align="center">
